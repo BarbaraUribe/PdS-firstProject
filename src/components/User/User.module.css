@@ -1,0 +1,17 @@
+.User {}
+
+.user {
+    background: #f4f4f4;
+    margin: 5px auto;
+    max-width: 100%;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    overflow: scroll;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .user::-webkit-scrollbar {
+    display: none;
+  }
